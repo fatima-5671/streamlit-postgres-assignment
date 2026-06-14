@@ -11,7 +11,7 @@ The system allows faculty members to add, view, search, update, delete, upload, 
 Repository Link:
 
 ```text
-https://github.com/maryamdatascientist/streamlit-postgres-assignment
+[https://github.com/fatima-5671/streamlit-postgres-assignment.git]
 ```
 
 ---
